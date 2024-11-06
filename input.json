@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "672904f1d4001058475d1739"
+  },
+  "tgId": 970587775,
+  "firstName": "Pavel",
+  "lastName": null,
+  "languageCode": "ru",
+  "rewardPercent": 10,
+  "referralLinks": [
+    "970587775-abobus"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6729098d0877a7bcfdb9d662"
+  },
+  "tgId": {
+    "$numberLong": "8070990056"
+  },
+  "firstName": "Dan",
+  "lastName": null,
+  "languageCode": "en",
+  "rewardPercent": 10
+},
+{
+  "_id": {
+    "$oid": "6729eee7e59f26d1b1f0e00f"
+  },
+  "tgId": 589777231,
+  "firstName": "@SAIDULISLAMBABU @BABU8563",
+  "lastName": null,
+  "languageCode": "en",
+  "rewardPercent": 10,
+  "referralLinks": [
+    "589777231-Saidulislambabu"
+  ],
+  "balance": 0
+},
+{
+  "_id": {
+    "$oid": "672b3346835943373e8f5a1b"
+  },
+  "tgId": {
+    "$numberLong": "5484633800"
+  },
+  "firstName": "Mlasuzin",
+  "lastName": null,
+  "languageCode": "ru",
+  "rewardPercent": 10
+},
+{
+  "_id": {
+    "$oid": "672b86db835943373e8f5a1c"
+  },
+  "tg_id": 80737343,
+  "first_name": "Andy",
+  "last_name": "Bohutsky",
+  "language_code": "en",
+  "reward_percent": 10,
+  "referral_links": [
+    "80737343-test"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672b88df10b7fe1f80f601cf"
+  },
+  "tg_id": 970587775,
+  "first_name": "Pavel",
+  "last_name": null,
+  "language_code": "ru",
+  "reward_percent": 10,
+  "referral_links": [
+    "970587775-steam"
+  ]
+},
+{
+  "_id": {
+    "$oid": "672b89f910b7fe1f80f601d0"
+  },
+  "tg_id": 1045583544,
+  "first_name": "Артем",
+  "last_name": "Кусков",
+  "language_code": "ru",
+  "reward_percent": 10
+}]
